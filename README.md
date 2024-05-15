@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vineet</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetalp002&label=Profile%20views&color=0e75b6&style=flat" alt="vineetalp002" /> </p>
 
 - 🌱 I’m currently learning **NextJs**
 
 - 📫 How to reach me **Vineetalp002@gmail.com**
-
+  <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=db7093&style=plastic" alt="jash13desai" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/k_vineet002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_vineet002" height="30" width="40" /></a>
