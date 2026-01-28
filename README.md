@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineet</h1>
 
-- 🌱 I’m currently learning **NextJs**
-
 - 📫 How to reach me **Vineetalp002@gmail.com**
   <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=db7093&style=plastic" alt="jash13desai" /></p>
 <h3 align="left">Connect with me:</h3>
